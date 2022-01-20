@@ -7,6 +7,16 @@ Can calculate the time it would take a browser to download and execute your JS. 
 Calculations include all dependencies and polyfills used in your JS.
 
 
+
+
+
+
+
+
+
+
+
+
 | APPLE | BTC | ETH  | ADA   | MANA  |
 |-------|-----|------|-------|-------|
 | 123   | 443 | 3345 | 54353 | 64564 |
