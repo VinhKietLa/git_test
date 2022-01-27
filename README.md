@@ -13,8 +13,7 @@ sadfsfasfasfsafsdfsd
 
 
 
-https://github.com/VinhKietLa/git_test/blob/main/charmander.png
-
+https://github.com/VinhKietLa/git_test/blob/d7b1a91b0c09726d863d73aed0f0144197675822/charmander.png
 
 
 | APPLE | BTC | ETH  | ADA   | MANA  |
