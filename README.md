@@ -13,7 +13,7 @@ sadfsfasfasfsafsdfsd
 
 
 
-
+https://github.com/warwick-bailey-work/lxd-sys/raw/main/md/images/cognitive-dissonance.png
 
 
 
